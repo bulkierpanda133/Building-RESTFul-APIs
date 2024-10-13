@@ -19,3 +19,17 @@ Database Setup
 Before using the API, you need to create a MySQL database. Ensure that you have MySQL installed and running on your machine.
 
 
+
+
+API Endpoints
+Members
+GET /members: Retrieve all members.
+POST /members: Add new members.
+PUT /members/<id>: Update an existing member.
+DELETE /members/<id>: Delete a member.
+Workout Sessions
+GET /WorkoutSessions: Retrieve all workout sessions.
+POST /WorkoutSessions: Add new workout sessions.
+GET /WorkoutSessions/member/<int:member_id>: Retrieve all workout sessions for a specific member.
+PUT /WorkoutSessions/<int:session_id>: Update an existing workout session.
+DELETE /WorkoutSessions/<int:session_id>: Delete a workout session.
