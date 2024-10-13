@@ -18,7 +18,8 @@ MySQL Server
 Database Setup
 Before using the API, you need to create a MySQL database. Ensure that you have MySQL installed and running on your machine.
 
-
+the SQL  file you need is from the GitHub repository  The file is named is  sql_data.sql 
+import into   mysql 
 
 
 API Endpoints
