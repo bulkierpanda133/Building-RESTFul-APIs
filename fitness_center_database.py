@@ -2,8 +2,8 @@ import mysql.connector
 from mysql.connector import Error
 from time import sleep
  # i hope it wokes. i cant spell works lol 
- # u the sad part is you have to put in your information in 
- #EVERY TIME.... it runs:)
+ #  sad part is that you have to put in your information in 
+ # EVERY TIME.... it runs:)
  #going to fix the soon
 
 def get_db_connection_new():
