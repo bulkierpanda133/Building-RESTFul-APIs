@@ -1,4 +1,8 @@
 Fitness Center Management API
+
+
+
+
 Welcome to the Fitness Center Management API! This application allows you to manage members and their workout sessions using a RESTful API built with Flask and MySQL.
 
 Features
